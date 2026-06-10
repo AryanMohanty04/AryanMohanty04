@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Rey.jpg" width="650" >
+  <img src="./assets/Tada.jpeg" >
 </p>
 
 <h1 align="center">Hi, I'm Aryan Mohanty</h1>
@@ -25,3 +25,7 @@
 > 📚 Currently investing most of my time in learning, building projects, and becoming a better engineer every day.
 >
 > 🎯 Long term, I want to build a career that gives me the freedom to work on meaningful problems, explore the world, and keep pushing my limits.
+
+<p align="center">
+  <img src="./assets/Rey.jpg" >
+</p>
