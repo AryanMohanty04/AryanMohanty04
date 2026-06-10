@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Tada.jpeg" width="900"  alt="Aryan Mohanty">
+  <img src="./assets/Tada.jpeg" width="650"  alt="Aryan Mohanty">
 </p>
 
 <h1 align="center">Hi, I'm Aryan Mohanty</h1>
