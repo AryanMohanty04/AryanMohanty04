@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="./assets/Tada.jpeg" width="650"  alt="Aryan Mohanty">
-</p>
-
-<h1 align="center">Hi, I'm Aryan Mohanty</h1>
+<h1 align="center">Hi ✌, I'm Aryan Mohanty</h1>
 
 <h3 align="center">Software Engineer</h3>
 
